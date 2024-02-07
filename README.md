@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @daniel-mcilhenny
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: beever/platypus or beeverpus for short
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on beginner projects
 
 <!---
 daniel-mcilhenny/daniel-mcilhenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
